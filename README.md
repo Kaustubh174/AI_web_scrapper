@@ -11,6 +11,11 @@ AI Web Scraper is an intelligent web scraping application built using **Streamli
 - **Interactive Interface**: View scraped and parsed data directly through the Streamlit UI with expandable content sections.
 - **Integration with LangChain**: Leverages LangChain's LLMChain and OpenAI's GPT models for parsing and summarizing text.
 
+## Live Demo
+
+Try the app live on Streamlit:  
+[AI Web Scraper](https://aiwebscrapper-yglrthzg836gahssxrqrqt.streamlit.app/)
+
 ## Uses
 
 - **Data Gathering**: Extract specific data from websites for research or analytics.
@@ -18,4 +23,9 @@ AI Web Scraper is an intelligent web scraping application built using **Streamli
 - **Information Summarization**: Use natural language to summarize scraped website data.
 - **Educational Purposes**: Learn how to integrate Streamlit, Selenium, and LangChain in Python for creating AI-powered applications.
 
+## Installation
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/ai-web-scraper.git
+   cd ai-web-scraper
