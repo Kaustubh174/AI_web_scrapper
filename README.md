@@ -23,9 +23,4 @@ Try the app live on Streamlit:
 - **Information Summarization**: Use natural language to summarize scraped website data.
 - **Educational Purposes**: Learn how to integrate Streamlit, Selenium, and LangChain in Python for creating AI-powered applications.
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/ai-web-scraper.git
-   cd ai-web-scraper
